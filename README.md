@@ -3,7 +3,8 @@
 ## Short description 
 
 Chess is a game for two players. One player is having the white pieces and the other one, the black pieces. The goal is to capture the opponent’s king, known as checkmate. Chess is played on a board with 64 squares, each player having in the beginning 16 pieces: 8 pawns, two rooks, two knights, two bishops, one queen and one king. Those pieces are lined up in two rows. The player having the white pieces always starts first. Each piece can move on the board according to some specific rules.
-Features of the application 
+
+## Features of the application 
 
 ###	Pieces
 •	a piece cannot be allowed to be placed in an incorrect square; 
